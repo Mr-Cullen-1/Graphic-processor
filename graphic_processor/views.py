@@ -1,5 +1,3 @@
-# upload/views.py
-
 from django.shortcuts import render
 from django.core.files.storage import default_storage
 from .forms import UploadFileForm
